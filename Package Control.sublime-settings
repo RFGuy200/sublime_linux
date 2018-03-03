@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Compare Side-By-Side",
+		"Open in Default Application",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}

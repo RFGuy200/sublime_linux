@@ -1,0 +1,9 @@
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys": "ctrl+shift+~",
+	"tab_size": 2
+}
