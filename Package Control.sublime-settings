@@ -5,9 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
+		"C Improved",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"Clang Format",
 		"Compare Side-By-Side",
+		"CppBuilder",
+		"DiffView",
+		"FindResultsBufferUtils",
+		"Oasis Theme",
 		"Open in Default Application",
 		"Package Control",
-		"SideBarEnhancements"
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-clang",
+		"Terminal",
+		"Theme - Soda"
 	]
 }

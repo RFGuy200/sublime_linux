@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+/*****************************************************************************
+# Copyright (c) 2017 Integrated Device Technology, Inc.
+# All Rights Reserved
+#
+# This file is provided for use with IDT products only, and does not convey any
+# license, whether express or implied, to any intellectual property rights of
+# Integrated Device Technology, Inc.  Distribution, copying or modification of
+# the contents of this file and/or any derivatives thereto is not permitted,
+# except as specifically authorized in writing. This notice shall be included
+# in its entirety on all copies made from this file.
+#
+# The contents herein are the proprietary and confidential information of
+# Integrated Device Technology Inc. and shall not be distributed or furnished
+# to third parties or made public without prior written permission by Integrated
+# Device Technology Inc.  Disclosures of this file in any form to the United
+# States Government may not be made without a written predetermination that
+# it will be protected by limited or restricted rights as set forth in the
+# applicable Federal Acquisition Regulations or other equivalent governmental
+# rule or regulation.
+#
+# The contents herein are provided "as is" and without any express or implied
+# warranties, including, without limitation, the implied warranties of
+# merchantability and fitness for a particular purpose.
+#
+# Last modified: <lastCommitDate>
+# Release: <releaseName>
+# Build: <buildNumber>
+# Id: <gitCommitHash>
+#
+*******************************************************************************/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>idtcright</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+</snippet>

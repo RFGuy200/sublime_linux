@@ -1,5 +1,9 @@
 [
 { "keys": ["ctrl+shift+tab"], 
 	"command": "unexpand_tabs", 
-	"args" : {"set_translate_tabs" : true} }
+	"args" : {"set_translate_tabs" : true},
+	"keys": ["ctrl+shift+n"], "command": "new_snippet",
+	"keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false},
+  "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true}
+}
 ]

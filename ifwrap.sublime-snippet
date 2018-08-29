@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+#if
+${$1:insert text here}
+#else
+#endif
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ifwrap</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.c</scope> -->
+</snippet>

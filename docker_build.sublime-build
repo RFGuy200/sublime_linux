@@ -1,0 +1,5 @@
+{
+	"working_dir": "/home/alex/workspace/dummy/bariumBoxer",
+	"shell_cmd": "make clean",
+	"shell_cmd": "gnome-terminal -e 'make docker-build'"
+}
