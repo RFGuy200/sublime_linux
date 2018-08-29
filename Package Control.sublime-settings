@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"BracketHighlighter",
 		"C Improved",
 		"C++ Snippets",
 		"C++ Starting Kit",
