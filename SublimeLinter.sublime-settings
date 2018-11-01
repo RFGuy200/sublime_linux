@@ -1,0 +1,26 @@
+// SublimeLinter Settings - User
+{
+	"linters":
+	{
+	    "gcc": {
+	        "disable": true,
+	        // C-specific settings
+	        //"c_executable": "gcc",
+	        //"c_extra_flags": [
+	        //    "-fsyntax-only",
+	        //    "-std=c90"
+	        //],
+	        // C++-specific settings
+	        //"c++_executable": "g++",
+	        //"c++_extra_flags": [
+	        //  "-fsyntax-only",
+	        //"-std=c++11",
+	        //],
+	        // include_dirs for both C and C++
+	        "include_dirs": [
+	            "include",
+	            "src",
+	        ],
+	    },
+	},	
+}

@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Oasis Theme/Oasis.tmTheme",
+	"font_face": "hermit",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"keys": "ctrl+shift+~",
+	"remember_open_files": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme"
+}
