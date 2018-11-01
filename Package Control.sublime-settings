@@ -5,16 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Anaconda",
 		"BracketHighlighter",
 		"C Improved",
 		"C++ Snippets",
 		"C++ Starting Kit",
-		"Clang Format",
+		"Column Select",
 		"Compare Side-By-Side",
 		"CppBuilder",
 		"DiffView",
+		"Djaneiro",
 		"FindResultsBufferUtils",
+		"Makefile Improved",
+		"Makefile Plus",
 		"Oasis Theme",
 		"Open in Default Application",
 		"Package Control",
@@ -23,7 +27,9 @@
 		"SnippetMaker",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-clang",
+		"SublimeLinter-gcc",
+		"SublimeLinter-pycodestyle",
+		"Sublimerge 3",
 		"Terminal",
 		"Theme - Soda"
 	]

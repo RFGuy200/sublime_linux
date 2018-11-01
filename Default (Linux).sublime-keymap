@@ -1,9 +1,10 @@
 [
-{ "keys": ["ctrl+shift+tab"], 
-	"command": "unexpand_tabs", 
-	"args" : {"set_translate_tabs" : true},
-	"keys": ["ctrl+shift+n"], "command": "new_snippet",
-	"keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false},
-  "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true}
-}
+  { "keys": ["ctrl+shift+tab"]}, 
+	{ "command": "unexpand_tabs"}, 
+	{ "args" : {"set_translate_tabs" : true}},
+	{ "keys": ["ctrl+shift+n"], "command": "new_snippet"},
+	{ "keys": ["ctrl+up"], "command": "column_select", "args": {"by": "lines", "forward": false}},
+	{ "keys": ["ctrl+down"], "command": "column_select", "args": {"by": "lines", "forward": true}},
+	{ "keys": ["ctrl+alt+b"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+alt+e"], "command": "move_to", "args": {"to": "eol", "extend": false} }
 ]

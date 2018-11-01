@@ -1,10 +1,10 @@
 {
 	"color_scheme": "Packages/Oasis Theme/Oasis.tmTheme",
 	"font_face": "hermit",
-	"font_size": 11,
+	"font_size": 13,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Makefile"
 	],
 	"keys": "ctrl+shift+~",
 	"remember_open_files": true,
